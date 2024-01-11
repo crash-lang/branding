@@ -7,16 +7,13 @@
    style="enable-background:new 0 0 566.93 566.93;"
    xml:space="preserve"
    id="svg5"
-   sodipodi:docname="logo_mask.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
    id="defs5"><linearGradient
-     id="linearGradient6"
-     inkscape:collect="always"><stop
+     id="linearGradient6"><stop
        style="stop-color:#f94144;stop-opacity:1;"
        offset="0.25276142"
        id="stop6" /><stop
@@ -32,7 +29,6 @@
        style="stop-color:#f94144;stop-opacity:1;"
        offset="0.64950311"
        id="stop7" /></linearGradient><linearGradient
-     inkscape:collect="always"
      xlink:href="#linearGradient6"
      id="linearGradient7"
      x1="26.818274"
@@ -58,14 +54,8 @@
    inkscape:window-y="309"
    inkscape:window-maximized="1"
    inkscape:current-layer="g5" />
-	
-	
-	
-	
-	
 	<g
    id="g5"
-   inkscape:label="logo"
    style="fill:url(#linearGradient7);fill-opacity:1"><path
      d="M289.17,4.27c-10.38,4.89-25.16,12.17-35.33,26.65c-15.12,21.5-16.95,47.28-18.14,64.06c-1.24,17.44,0.9,22.86-2.69,36.96   c-5.84,22.95-18.87,27.27-17.25,35.39c4.97,24.76,129.15,34.06,140.21,3.36c3.48-9.67-1.82-29.63-26.75-57.2   c-21-23.22-29.21-28.32-34.96-42C279.31,35.92,299.61-0.65,289.17,4.27z"
      id="path1"
