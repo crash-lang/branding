@@ -7,7 +7,6 @@
    style="enable-background:new 0 0 566.93 566.93;"
    xml:space="preserve"
    id="svg5"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
@@ -40,20 +39,7 @@
    pagecolor="#ffffff"
    bordercolor="#000000"
    borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   showgrid="false"
-   inkscape:zoom="1.4580422"
-   inkscape:cx="-0.68585123"
-   inkscape:cy="276.74097"
-   inkscape:window-width="2560"
-   inkscape:window-height="1378"
-   inkscape:window-x="1200"
-   inkscape:window-y="309"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="g5" />
+   showgrid="false"/>
 	<g
    id="g5"
    style="fill:url(#linearGradient7);fill-opacity:1"><path
